@@ -1,6 +1,6 @@
 # Urban_Sound_Classification
 
-Aim of this project was to classify the different urban sounds as air_conditioner, car_horn, children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, siren, street_music using Convolutional Neural Networks (CNNs).
+Aim of this project was to classify different urban sounds as air_conditioner, car_horn, children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, siren, street_music using Convolutional Neural Networks (CNNs).
 
 This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: 
 - *air_conditioner* ***(0)***
