@@ -56,3 +56,4 @@ This repository contains the following files:
 
 Here's the link to the dataset:  
 https://www.kaggle.com/chrisfilo/urbansound8k
+https://urbansounddataset.weebly.com/urbansound8k.html
