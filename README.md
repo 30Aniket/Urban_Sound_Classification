@@ -16,8 +16,6 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 
 In addition to the sound excerpts, a CSV file containing metadata about each excerpt is also provided, which includes:
 
-The dataset columns:
-
 - *slice_file_name*: The name of the audio file. The name takes the following format: [fsID]-[classID]-[occurrenceID]-[sliceID].wav, where:
 [fsID] = the Freesound ID of the recording from which this excerpt (slice) is taken  
 [classID] = a numeric identifier of the sound class (see description of classID below for further details)  
